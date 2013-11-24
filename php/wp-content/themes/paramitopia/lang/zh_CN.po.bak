@@ -1,0 +1,424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zBench\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-09 13:23+0800\n"
+"PO-Revision-Date: 2011-02-09 13:24+0800\n"
+"Last-Translator: zwwooooo <zwwblog@gmail.com>\n"
+"Language-Team: zwwooooo <http://zww.me/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:4
+#: archive.php:36
+#: index.php:24
+#@ paramitopia
+msgid "Error 404 - Not Found"
+msgstr "你我有缘无份 （没有找到）"
+
+#: 404.php:6
+#: archive.php:39
+#: index.php:27
+#@ paramitopia
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "心有灵犀一点通……哦噢"
+
+#: 404.php:7
+#: archive.php:40
+#: index.php:28
+#: sidebar.php:5
+#@ paramitopia
+msgid "Random Posts"
+msgstr "随缘"
+
+#: archive.php:49
+#: index.php:37
+#@ paramitopia
+msgid "Tag Cloud"
+msgstr "搔痒痒"
+
+#: archive.php:6
+#@ paramitopia
+msgid "Daily Archives:"
+msgstr "每日想你多一些:"
+
+#: archive.php:8
+#@ paramitopia
+msgid "Monthly Archives:"
+msgstr "此情可待成追忆:"
+
+#: archive.php:10
+#@ paramitopia
+msgid "Yearly Archives:"
+msgstr "我们一生一起走:"
+
+#: archive.php:12
+#@ paramitopia
+msgid "Category Archives:"
+msgstr "甜美往事:"
+
+#: archive.php:14
+#@ paramitopia
+msgid "Tag Archives:"
+msgstr "点滴真情:"
+
+#: archive.php:16
+#@ paramitopia
+msgid "Blog Archives"
+msgstr "我们的小天地"
+
+#: archive.php:24
+#: index.php:8
+#: single.php:7
+#@ paramitopia
+msgid "Posted by"
+msgstr "那个人:"
+
+#: archive.php:25
+#: index.php:9
+#: single.php:7
+#@ paramitopia
+msgid "on"
+msgstr "那一年:"
+
+#: archive.php:25
+#: index.php:10
+#: single.php:7
+#@ paramitopia
+msgid "Edit"
+msgstr "编辑"
+
+#: archive.php:27
+#: index.php:12
+#@ paramitopia
+msgid "None comments"
+msgstr "默默爱你"
+
+#: archive.php:27
+#: index.php:12
+#@ paramitopia
+msgid "comments"
+msgstr "个飞吻"
+
+#: archive.php:31
+#: functions.php:76
+#: index.php:16
+#@ paramitopia
+msgid "Read more &raquo;"
+msgstr "阅读全文 &raquo;"
+
+#: archive.php:65
+#@ paramitopia
+msgid "&laquo; Previous page"
+msgstr "&laquo; 前尘往事"
+
+#: archive.php:65
+#@ paramitopia
+msgid "Next page &raquo;"
+msgstr "幸福将来 &raquo;"
+
+#: comments.php:10
+#@ paramitopia
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "红杏不出墙，良妇不过江。"
+
+#: comments.php:18
+#@ paramitopia
+msgid "Leave a comment ?"
+msgstr "吻我吧"
+
+#: comments.php:18
+#@ paramitopia
+msgid "Comments."
+msgstr "个飞吻"
+
+#: comments.php:25
+#@ paramitopia
+msgid "Comments are closed."
+msgstr "爱我就不要伤害我"
+
+#: comments.php:97
+#@ paramitopia
+msgid "NOTE - You can use these "
+msgstr "给自己起个"
+
+#: comments.php:101
+#@ paramitopia
+msgid "NAME"
+msgstr "昵称 *"
+
+#: comments.php:103
+#@ paramitopia
+msgid "EMAIL"
+msgstr "电邮 * "
+
+#: comments.php:105
+#@ paramitopia
+msgid "Website URL"
+msgstr "网址"
+
+#: comments.php:112
+#@ paramitopia
+msgid "Leave a Comment"
+msgstr "吻我吧"
+
+#: comments.php:113
+#, php-format
+#@ paramitopia
+msgid "Reply to %s &not;<br />"
+msgstr "飞吻给 %s &not;<br />"
+
+#: comments.php:114
+#@ paramitopia
+msgid "<small>Cancel reply</small>"
+msgstr "<small>吻别</small>"
+
+#: comments.php:115
+#@ paramitopia
+msgid "SUBMIT"
+msgstr "啵一个"
+
+#: comments.php:124
+#@ paramitopia
+msgid "Trackbacks and Pingbacks:"
+msgstr "儿孙满堂:"
+
+#: footer.php:8
+#@ paramitopia
+msgid "Top"
+msgstr "跳高"
+
+#: functions.php:13
+#@ paramitopia
+msgid "Primary Widget Area"
+msgstr "主小工具区域"
+
+#: functions.php:15
+#@ paramitopia
+msgid "The primary widget area"
+msgstr "全部页面显示的小工具区域"
+
+#: functions.php:33
+#, php-format
+#@ default
+msgid "%1$s at %2$s"
+msgstr "%1$s 在 %2$s"
+
+#: functions.php:33
+#@ paramitopia
+msgid "[Edit]"
+msgstr "[编辑]"
+
+#: functions.php:36
+#@ paramitopia
+msgid "Your comment is awaiting moderation."
+msgstr "你的悄悄话我听到了。"
+
+#: functions.php:167
+#@ paramitopia
+msgid "RSS URL"
+msgstr "RSS订阅地址"
+
+#: functions.php:168
+#@ paramitopia
+msgid "Put your full rss subscribe address here.(with http://)"
+msgstr "填入你的自定义订阅地址。（以http://开头，不自定义保留空白，默认会显示wp原生订阅地址。）"
+
+#: functions.php:172
+#@ paramitopia
+msgid "twitter URL"
+msgstr "Twitter地址"
+
+#: functions.php:173
+#@ paramitopia
+msgid "Put your full twitter address here.(with http:// , leave it blank for display none.)"
+msgstr "填入你的Twitter地址。（以http://，如果没有保留空白。）"
+
+#: functions.php:177
+#@ paramitopia
+msgid "facebook URL"
+msgstr "Facebook地址"
+
+#: functions.php:178
+#@ paramitopia
+msgid "Put your full facebook address here.(with http:// , leave it blank for no display none.)"
+msgstr "填入你的Facebook地址。（以http://开头，如果没有保留空白。）"
+
+#: functions.php:187
+#@ paramitopia
+msgid "Excerpt?"
+msgstr "显示摘录？"
+
+#: functions.php:188
+#@ paramitopia
+msgid "If the home page and archive pages to display excerpt of post, check."
+msgstr "如果首页和存档页的文章显示为摘录，打勾。（中文需要配合摘录插件比较完美，如wp-utf8-excerpt、中文工具箱、wp-kit-cn）"
+
+#: functions.php:192
+#@ paramitopia
+msgid "Disable the comment notes"
+msgstr "关闭评论提示"
+
+#: functions.php:193
+#@ paramitopia
+msgid "Disabling this will remove the note text that displays with more options for adding to comments (html)."
+msgstr "勾选后移除评论可以使用的（HTML）提示说明。"
+
+#: functions.php:197
+#@ paramitopia
+msgid "Disable the comments smilies"
+msgstr "关闭评论表情"
+
+#: functions.php:198
+#@ paramitopia
+msgid "Disabling this will remove the comments smilies."
+msgstr "勾选后关闭评论表情。"
+
+#: functions.php:210
+#@ default
+msgid "Theme Options"
+msgstr "主题设置"
+
+#: functions.php:229
+#, php-format
+#@ paramitopia
+msgid "%1$s Theme Options"
+msgstr "%1$s 主题设置"
+
+#: functions.php:231
+#@ paramitopia
+msgid "Options saved"
+msgstr "设置已保存"
+
+#: functions.php:260
+#@ paramitopia
+msgid "Save Options"
+msgstr "保存设置"
+
+#: header.php:28
+#@ paramitopia
+msgid "Home"
+msgstr "家"
+
+#: header.php:35
+#@ paramitopia
+msgid "RSS Feed"
+msgstr "RSS 订阅"
+
+#: header.php:40
+#@ paramitopia
+msgid "Follow me on twitter."
+msgstr "Follow me on twitter."
+
+#: header.php:43
+#@ paramitopia
+msgid "Facebook"
+msgstr "Facebook"
+
+#: index.php:19
+#@ paramitopia
+msgid "This is a sticky post!"
+msgstr "置顶文章！"
+
+#: index.php:19
+#@ paramitopia
+msgid "continue reading?"
+msgstr "要，不要，要，不要，要？"
+
+#: page.php:8
+#: single.php:9
+#@ paramitopia
+msgid "Leave a comment"
+msgstr "吻我吧"
+
+#: archive.php:27
+#: index.php:12
+#: page.php:9
+#: single.php:10
+#@ paramitopia
+msgid "Go to comments"
+msgstr "浪花朵朵"
+
+#: page.php:17
+#: single.php:16
+#@ paramitopia
+msgid "Pages:"
+msgstr "似水流年:"
+
+#: searchform.php:2
+#@ paramitopia
+msgid "Search: type, hit enter"
+msgstr "心有灵犀"
+
+#: searchform.php:3
+#@ paramitopia
+msgid "SEARCH"
+msgstr "一点通"
+
+#: sidebar.php:16
+#@ paramitopia
+msgid "Search by Tags!"
+msgstr "搔痒痒"
+
+#: sidebar.php:20
+#@ paramitopia
+msgid "Archives"
+msgstr "尘封的记忆"
+
+#: sidebar.php:26
+#@ paramitopia
+msgid "Links"
+msgstr "还记得TA吗"
+
+#: sidebar.php:32
+#@ paramitopia
+msgid "Meta"
+msgstr "谁做饭"
+
+#: single.php:19
+#@ paramitopia
+msgid "Related Posts"
+msgstr "随缘"
+
+#: archive.php:21
+#: index.php:5
+#, php-format
+#@ paramitopia
+msgid "Permalink to %s"
+msgstr "抹不去的记忆 %s"
+
+#: index.php:53
+#@ paramitopia
+msgid "&laquo; Newer posts"
+msgstr "&laquo; 后世缘"
+
+#: index.php:53
+#@ paramitopia
+msgid "Older posts &raquo;"
+msgstr "前世因 &raquo;"
+
+#: functions.php:182
+#@ paramitopia
+msgid "googleplus URL"
+msgstr "Google+地址"
+
+#: functions.php:183
+#@ paramitopia
+msgid "Put your full googleplus address here.(with https:// , leave it blank for no display none.)"
+msgstr "填入你的Google+地址。（以https://开头，如果没有保留空白。）"
+
+#: header.php:37
+#@ paramitopia
+msgid "Googleplus"
+msgstr "Google+"
+
