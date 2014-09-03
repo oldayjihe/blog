@@ -284,3 +284,9 @@ function output_copyright($content) {
 	return $content;
 }
 add_filter( 'the_content', 'output_copyright' );
+
+// Remove Wordpress Version
+function remove_version() {
+	return '';
+}
+add_filter('the_generator', 'remove_version');
