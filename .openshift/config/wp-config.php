@@ -107,7 +107,7 @@ $table_prefix  = 'wp_';
  * de_DE.mo to wp-content/languages and set WPLANG to 'de_DE' to enable German
  * language support.
  */
-define('WPLANG', '');
+define('WPLANG', 'zh_CN');
 define('WP_POST_REVISIONS', false);//禁用历史修订版本
 define('AUTOSAVE_INTERVAL', 86400);//设置自动保存时间设置为一天
 /**
