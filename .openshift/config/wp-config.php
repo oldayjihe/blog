@@ -108,7 +108,8 @@ $table_prefix  = 'wp_';
  * language support.
  */
 define('WPLANG', '');
-
+define('WP_POST_REVISIONS', false);//禁用历史修订版本
+define('AUTOSAVE_INTERVAL', 86400);//设置自动保存时间设置为一天
 /**
  * For developers: WordPress debugging mode.
  *
