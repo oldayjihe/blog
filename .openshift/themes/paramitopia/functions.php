@@ -286,7 +286,15 @@ function output_copyright($content) {
 add_filter( 'the_content', 'output_copyright' );
 
 // Remove Wordpress Version
-function remove_version() {
+function remove_wp_ver() {
 	return '';
 }
-add_filter('the_generator', 'remove_version');
+add_filter('the_generator', 'remove_wp_ver');
+
+function remove_wp_ver_par( $src ) {
+	if ( strpos( $src, 'ver=' . get_bloginfo( 'version' ) ) )
+		$src = remove_query_arg( 'ver', $src );
+	return $src;
+}
+add_filter( 'style_loader_src', 'remove_wp_ver_par', 9999 );
+add_filter( 'script_loader_src', 'remove_wp_ver_par', 9999 );
